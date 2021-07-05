@@ -26,9 +26,6 @@ SOFTWARE.
 @angular-ru/common
 MIT
 
-@angular-ru/logger
-MIT
-
 @angular/common
 MIT
 
